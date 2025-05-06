@@ -15,6 +15,9 @@ The **All-in-One Learning Companion** is a Flutter-based Android app designed to
 - **Gemini API** - Integrated for AI-driven features like image storytelling, object recognition, and book summarization.
 - **Provider** - For state management.
 
+## Download app
+by this 
+
 ## Setup Instructions
 
 ### 1. Clone the repository:

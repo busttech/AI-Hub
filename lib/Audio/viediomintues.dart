@@ -15,7 +15,7 @@ class AudioVideoMinutes extends StatefulWidget {
 
 class _AudioVideoMinutesState extends State<AudioVideoMinutes> {
   bool isLoading = false;
-  String API_KEY = "AIzaSyBgjxAfBK6GT2Mnsv_gvvkeaLdZMbjw_gk";
+  String API_KEY = "API_KEY";
   dynamic response;
   File? image;
   PlatformFile? file;

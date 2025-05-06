@@ -15,7 +15,7 @@ class Storyteller extends StatefulWidget {
 
 class _StorytellerState extends State<Storyteller> {
   bool isLoading = false;
-  String API_KEY = "AIzaSyBgjxAfBK6GT2Mnsv_gvvkeaLdZMbjw_gk";
+  String API_KEY = "API_KEY";
   dynamic response;
   File? image;
   var type = [

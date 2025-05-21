@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # All-in-One Learning Companion App
 
 ## Description
@@ -25,3 +26,16 @@ To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/all-in-one-learning-companion.git
 cd all-in-one-learning-companion
+```
+### 2. Install dependencies: 
+```bash
+flutter pub get
+```
+</br>
+4. Run the app:by flutter run in your bash
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use and adapt it as needed.
+   
